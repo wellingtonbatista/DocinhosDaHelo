@@ -21,9 +21,9 @@ header{
     width: 100%;
     background-color: var(--cor2);
     font-family: var(--font2);
-    font-size: 1.65em;
+    font-size: 1.75em;
     text-align: center;
-    padding-top: 30px;
+    padding-top: 28px;
     height: 90px;
 }
 body{
