@@ -122,6 +122,21 @@ section div.pascoa{
     background-position: center center;
     background-size: cover;
 }
+section div.pao-de-mel:hover{
+    box-shadow: 6px 6px 0px rgb(145, 81, 92);
+}
+section div.brigadeiro:hover{
+    box-shadow: 6px 6px 0px rgb(145, 81, 92);
+}
+section div.brownie:hover{
+    box-shadow: 6px 6px 0px rgb(145, 81, 92);
+}
+section div.trufas:hover{
+    box-shadow: 6px 6px 0px rgb(145, 81, 92);
+}
+section div.pascoa:hover{
+    box-shadow: 6px 6px 0px rgb(145, 81, 92);
+}
 footer{
     width: 100%;
     height: 45px;
